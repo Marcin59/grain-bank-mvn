@@ -1,2 +1,2 @@
 # grain-bank-mvn
-![example workflow](https://github.com/Marcin59/grain-bank-mvn/actions/workflows/ci/badge.svg)
+![example workflow](https://github.com/Marcin59/grain-bank-mvn/actions/workflows/ci.yml/badge.svg)
